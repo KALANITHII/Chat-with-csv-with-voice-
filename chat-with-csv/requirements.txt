@@ -1,0 +1,6 @@
+pandasai
+streamlit
+matplotlib
+chainlit
+python-dotenv
+pyyaml
